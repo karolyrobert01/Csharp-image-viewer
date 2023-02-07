@@ -1,2 +1,4 @@
 # Csharp-image-viewer
-university assignment
+University assignment.
+
+Károly Róbert | Debrecen | 2022
